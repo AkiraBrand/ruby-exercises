@@ -12,3 +12,4 @@ The strings.rb file has a number of exercises to help you better work with strin
 * sub
 * strip
 * upcase
+o
